@@ -8,8 +8,8 @@ from datetime import date
 
 
 # Loading the saved model
-loaded_model1 = pickle.load(open(r'C:\Users\Admin\Desktop\Major\App\btrained_model.pkl', 'rb'))
-loaded_model2 = pickle.load(open(r'C:\Users\Admin\Desktop\Major\App\itrained_model.pkl', 'rb'))
+loaded_model1 = pickle.load(open(r'btrained_model.pkl', 'rb'))
+loaded_model2 = pickle.load(open(r'itrained_model.pkl', 'rb'))
 
 
 def burnt_calorie_prediction(user_input):
