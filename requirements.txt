@@ -5,3 +5,4 @@ streamlit==1.13.0
 streamlit_lottie==0.0.3
 DateTime==4.7
 Pillow==9.2.0
+streamlit-nested-layout
