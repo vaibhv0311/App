@@ -2,6 +2,7 @@
 This project consists in creating a machine learning algorithm to predict calorie expenditure in a workout session as well as the amount of calories needed to recover from the workout based on age, gender, body temperature during workout, heart rate intensity, workout duration, among other factors.
 
 This is a work in progress and will be updated on a regular basis.
+The site is now live at https://caloriepredictor.streamlit.app
 
 
 ## Data Preprocessing: 
